@@ -1,5 +1,5 @@
 # C64 Space Invaders INCLUDING the assembler code the game is made from
-C64 Space Invader for learning how to program games with graphics in MOS 6510 (6502) Assembler
+C64 Space Invader for learning how to program games with graphics in MOS 6510 (6502) Assembler.
 
 Commodore 64 Space Invaders assembler code for self study.
 
