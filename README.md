@@ -16,7 +16,7 @@ When the upload dialog appears, select the .prg file: spaceattack.prg
 
 ![Project screenshot](assets/C64_invaders_ready.png)
 
-#### The aliens fly in from left and right:
+#### The aliens flies in from left and right:
 
 ![Project screenshot](assets/starting_01.png)
 
