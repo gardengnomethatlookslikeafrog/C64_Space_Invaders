@@ -3,6 +3,12 @@ C64 Space Invader for learning how to program games with graphics in MOS 6510 (6
 
 Commodore 64 Space Invaders assembler code for self study.
 
+
+#### Test in your browser first?
+
+https://github.com/gardengnomethatlookslikeafrog/C64_Space_Invaders/blob/main/spaceattack_WebAssembly.html
+
+
 #### Play online by loading the .prg into the emulator:
 
 https://c64online.com/c64-online-emulator/
