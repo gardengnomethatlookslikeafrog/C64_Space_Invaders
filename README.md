@@ -6,13 +6,11 @@ Commodore 64 Space Invaders assembler code for self study.
 
 #### Test in your browser first?
 
-<a href="https://github.com/gardengnomethatlookslikeafrog/C64_Space_Invaders/blob/main/spaceattack_WebAssembly.html">Play!</a>
-
+<a href="https://gardengnomethatlookslikeafrog.github.io/C64_Space_Invaders/spaceattack_WebAssembly.html">Play!</a>
 
 #### Play online by loading the .prg into the emulator:
 
 https://c64online.com/c64-online-emulator/
-
 
 #### Click on the folder icon to load the game.
 
